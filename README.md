@@ -2,23 +2,23 @@
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : Carrusel Claudia Orois Insua
+
 
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
+Autor: Claudia Orois Insua
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto busca mostrar varias imágenes de pingüinos, que se relacionan 
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: documental/informativo
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+![Captura](https://github.com/user-attachments/assets/8b8ea25e-e444-4d2d-95b7-ae6ab077d86e)
 
-(insertar imágenes a resolucion de 100px alto)
 
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: Microsoft Edge
 
 Tamaño proyecto: 14MB
 
