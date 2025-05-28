@@ -15,20 +15,14 @@ Estilo/género: documental/informativo
 ![Captura](https://github.com/user-attachments/assets/8b8ea25e-e444-4d2d-95b7-ae6ab077d86e)
 
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
+Resolución: 600x400px 
 Probado en: Microsoft Edge
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 23.788KB
 
 Fecha : 14/05/2025
 
-Medios (donde se tiene presencia relacionada):
-
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Medios (donde se tiene presencia relacionada): Github
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
@@ -54,9 +48,6 @@ Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
 etc.
 Etapa 3: Funciona correctamente, acorde a la idea planteada.
-
-## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
 
 
